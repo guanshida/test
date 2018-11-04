@@ -14,6 +14,6 @@ public class TestJava {
         t.run2();
     }
     public void run2() {
-        System.out.println("ru1234n43");
+        System.out.println("run432143");
     }
 }
