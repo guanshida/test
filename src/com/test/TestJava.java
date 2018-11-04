@@ -5,7 +5,7 @@ package com.test;
  */
 public class TestJava {
     public void run() {
-        System.out.println("反反复复付付 run");
+        System.out.println("run");
         System.out.println("hello run");
         System.out.println("this is run");
     }
