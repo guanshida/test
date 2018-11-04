@@ -7,7 +7,7 @@ public class TestJava {
     public void run() {
         System.out.println("run");
         System.out.println("hello run");
-        System.out.println("wwwwwwww is run");
+        System.out.println("wwwww111111111111111www is run");
 
     }
     public static void main(String[] args) {
