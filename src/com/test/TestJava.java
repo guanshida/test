@@ -8,8 +8,9 @@ public class TestJava {
         System.out.println("hello run");
     }
     public static void main(String[] args) {
-        System.out.println("nihao");
+        System.out.println("TestJava");
         TestJava t = new TestJava();
         t.run();
+        
     }
 }
