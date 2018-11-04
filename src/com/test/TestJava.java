@@ -5,6 +5,7 @@ package com.test;
  */
 public class TestJava {
     public void run() {
+        System.out.println("ddddddddddd");
         System.out.println("run1");
     }
     public static void main(String[] args) {
