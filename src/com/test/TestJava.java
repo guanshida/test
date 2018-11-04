@@ -6,6 +6,7 @@ package com.test;
 public class TestJava {
     public void run() {
         System.out.println("hello run");
+        System.out.println("this is run");
     }
     public static void main(String[] args) {
         System.out.println("TestJava");
