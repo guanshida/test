@@ -14,8 +14,9 @@ public class TestJava {
         System.out.println("TestJava");
         TestJava t = new TestJava();
         t.run();
-        t.run();
-        t.run();
-
+        t.run2();
+    }
+    public void run2() {
+        System.out.println("run2");
     }
 }
